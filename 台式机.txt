@@ -1,11 +1,37 @@
-测试环境http://10.20.178.44/sign-in/      
+综合服务蜜罐
 
-系统管理员：18157146494/Hang@161314
-日志审计员：13222222222/18768194321
-密码：2wsxVFR_
+操作系统：
+centos7蜜罐
+suse12sp3
+windows10
+windows server 2008
+windows7
 
-10.20.178.44    3306     root/1qazCDE#5tgb
+web类:
+nginx
+zabbix
+邮箱
+jenkins
+dukuwiki
+sugarCRM
+oa
+渗透蜜罐
+discuz
 
-租户管理员18969189464/1qaz@WSX
-运营小蜜17826800103/1qaz@WSX
-运营管理员17826800222/1qaz@WSX
+数据库:
+mysql
+mongodb
+redis
+
+中间件:
+ssh低交互留一个
+telnet 高交互
+扫描蜜罐
+samba蜜罐
+openvpn
+ftp
+
+中间件:
+tomcat
+weblogic
+jboss
